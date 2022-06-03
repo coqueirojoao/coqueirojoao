@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/pRNDFH5.png" alt="logo" width="400" height="2000">
+<img src="https://i.imgur.com/pRNDFH5.png" alt="logo" width="1500" height="1500">
 
 <!--
 **coqueirojoao/coqueirojoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
