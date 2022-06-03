@@ -1,16 +1,13 @@
 <img src="https://i.imgur.com/7RSDr6z.png" alt="logo">
 
-<!--
-**coqueirojoao/coqueirojoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```JavaScript
+const aboutMe = {
+  name: 'João Pedro Coqueiro de Azevedo',
+  age: '26 years old';
+  ]
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function contactMe() {
+  return 'Linkedin: https://www.linkedin.com/in/jo%C3%A3o-pedro-coqueiro-de-azevedo-875aa3239/';
+}
+```
