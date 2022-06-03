@@ -12,4 +12,4 @@ function contactMe() {
 }
 ```
 
-Desenvolvedor em formação pela <a href="https://www.betrybe.com/">Trybe.</a> Atualmente me encontro no módulo de fundamentos, sou baiano, e muito disciplinado para realizar todos os projetos que preciso, além de ter muita curiosidade e vontade de aprender coisas novas.
+<center>Desenvolvedor em formação pela <a href="https://www.betrybe.com/">Trybe.</a> Atualmente me encontro no módulo de fundamentos, sou baiano, e muito disciplinado para realizar todos os projetos que preciso, além de ter muita curiosidade e vontade de aprender coisas novas.</center>
