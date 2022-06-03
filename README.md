@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="right" src="https://imgur.com/pRNDFH5" alt="My octocat" width="250px">
 
 <!--
 **coqueirojoao/coqueirojoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
