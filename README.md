@@ -4,7 +4,6 @@
 const aboutMe = {
   name: 'João Pedro Coqueiro de Azevedo',
   age: '26 years old';
-  ]
 };
 
 function contactMe() {
