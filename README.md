@@ -41,13 +41,5 @@ Também tenho formação académica em Direito, pela UniFTC, período do qual es
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=coqueirojoao&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coqueirojoao&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
+## Let's listen to a song.  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jaaum.p&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
