@@ -1,4 +1,4 @@
-## <div align="center">Olá, me chamo João Pedro Coqueiro de Azevedo! 👋</div>  
+## <div align="center">Hey, my name is João Pedro Coqueiro de Azevedo! 👋</div>  
   
 
 <div align="center">
@@ -13,9 +13,8 @@
 
 
 
-### Um pouco sobre mim =]  
-Apaixonado por codar, comecei minha trilha dev na escola de programação da <a href="https://www.betrybe.com/" target="blank">Trybe</a>, em maio de 2022. Com muito empenho e estudo, consegui desenvolver vários projetos para cada bloco da escola, focado em fixar o aprendizado do conteúdo. Hoje tenho bom embasamento sobre HTML, CSS, JavaScript, Jest, React.js, Bootstrap, Tailwind, Redux e RTL. Sou um desenvolvedor apaixonado pela área e com fome de mais aprendizado e oportunidades!
-Também tenho formação académica em Direito, pela UniFTC, período do qual estudei de 2015 a 2020, me promovendo boa comunicação e experiência com o ambiente profissional e académico da área.  
+### A little about me =]
+Passionate about coding, I started my dev trail at the Trybe programming school, in May 2022. With a lot of effort and study, I managed to develop several projects for each block of the school, focused on fixing the learning of the content. Today I have a good background on HTML, CSS, JavaScript, Jest, React.js, Bootstrap, Tailwind, Redux and RTL. I'm a passionate developer and hungry for more learning and opportunities! I also have an academic degree in Law, from UniFTC, during which I studied from 2015 to 2020, promoting good communication and experience with the professional and academic environment of the area.
   
 
 <br/>  
