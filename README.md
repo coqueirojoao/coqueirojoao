@@ -36,7 +36,16 @@ Passionate about coding, I started my dev trail at the Trybe programming school,
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-</div>  
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+![Coqueirojoao Status](https://github-readme-stats.vercel.app/api?username=coqueirojoao&show_icons=true&theme=dark)
+
+</div>
 
 <br/>  
 
