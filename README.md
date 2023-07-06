@@ -15,6 +15,10 @@
 
 ### A little about me =]
 Passionate about coding, I started my dev trail at the Trybe programming school, in May 2022. With a lot of effort and study, I managed to develop several projects for each block of the school, focused on fixing the learning of the content. Today I have a good background on HTML, CSS, JavaScript, Jest, React.js, Bootstrap, Tailwind, Redux and RTL. I'm a passionate developer and hungry for more learning and opportunities! I also have an academic degree in Law, from UniFTC, during which I studied from 2015 to 2020, promoting good communication and experience with the professional and academic environment of the area.
+
+### Learning time!
+
+🧠 Currently, I am studying Java.
   
 
 <br/>  
